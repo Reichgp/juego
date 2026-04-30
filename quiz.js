@@ -1,4 +1,4 @@
-const DATA_FILE = "IS_2.json";
+const DATA_FILE = "juego.json";
 
 let settings = {
   show_progress: true,
